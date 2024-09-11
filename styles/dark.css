@@ -18,3 +18,14 @@
     display: block;
   }
 }
+
+.page.theme_dark {
+  --title-color: #db00ff;
+  --subtitle-color: #000028;
+  --text-color: #f1b2ce;
+  --accent-color: #ff0070;
+  --lead-color: #ff0070;
+  --lead-color-hover: #ff007066;
+  --background: url(../images/cover-image-dark.png);
+  --background-color: #000028;
+}
